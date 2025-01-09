@@ -1,4 +1,4 @@
-# User Management Screen - UI Specification
+# User Management Screen 
 
 ## 1. Overview
 This document outlines the UI specification for the **User Management Screen**.
